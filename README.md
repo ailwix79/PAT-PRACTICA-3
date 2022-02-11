@@ -12,3 +12,6 @@ Esta página incluye elementos de Bootstrap como Cards.
 
 # LOGIN
 Página de Login sencilla, incluye validación mediante Javascript
+
+# EXTRA
+Como extra se incluyen elementos con Javascript. La validación de la página Login se ha hecho de esta forma de manera intencionada, con el objetivo de en prácticas posteriores mejorarla y mostrar ejemplos de ataques XSS.
