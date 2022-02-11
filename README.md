@@ -2,7 +2,7 @@
 Practica 3 Creado por Alejandro Manuel López Gómez
 
 # INDEX
-Página principal de la aplicación. Contiene elementos como navbar, fotografías y grids.
+Página principal de la aplicación. Contiene elementos como navbar, fotografías, grids y footers (Todas las páginas incluyen esto y más elementos).
 
 # TRABAJA CON NOSOTROS
 Formulario. Como elemento extra este incluye validación de los campos implementada mediante Javascript. Además, también utiliza elementos de alertas de Bootstrap
