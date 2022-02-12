@@ -8,7 +8,7 @@ Página principal de la aplicación. Contiene elementos como navbar, fotografía
 Formulario. Como elemento extra este incluye validación de los campos implementada mediante Javascript. Además, también utiliza elementos de alertas de Bootstrap
 
 # PROYECTOS DE INVESTIGACIÓN
-Esta página incluye elementos de Bootstrap como Cards.
+Esta página incluye elementos de Bootstrap como Cards. También se encuentra el elemento de Table pedido.
 
 # LOGIN
 Página de Login sencilla, incluye validación mediante Javascript
